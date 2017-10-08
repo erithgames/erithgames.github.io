@@ -1,0 +1,13 @@
+{
+  "elements/main-app.html": {},
+  "elements/pages/pa/buttons/pa-buttons-page.html": {},
+  "elements/pages/pa/charts/pa-charts-page.html": {},
+  "elements/pages/pa/dashboard/pa-dashboard-page.html": {},
+  "elements/pages/pa/form-elements/pa-form-elements-page.html": {},
+  "elements/pages/pa/maps/pa-maps-page.html": {},
+  "elements/pages/other/not-found/other-not-found-page.html": {},
+  "elements/pages/pa/profile/pa-profile-page.html": {},
+  "elements/pages/pa/tables/pa-tables-page.html": {},
+  "elements/pages/pa/typo/pa-typo-page.html": {},
+  "elements/pages/pa/ui-other/pa-ui-other-page.html": {}
+}
